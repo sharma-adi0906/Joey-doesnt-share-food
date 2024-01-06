@@ -20,7 +20,12 @@
     margin-right: auto;
     width: 50%;
 }
-    
+
+#author{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
 
 #text{
     text-align: center;
